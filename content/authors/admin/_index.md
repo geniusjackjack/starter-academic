@@ -27,10 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BA in Psychology 
+  - course: BA, Psychology 
     institution: UC Davis
     year: expected June 2021
-  - course: AS in Psychology
+  - course: AS, Psychology
     institution: Sierra College
     year: 2019
 
