@@ -60,6 +60,6 @@ email: "jcfriedrich@ucdavis.edu"
 highlight_name: false
 ---
 
-I am a senior majoring in psychology at UC Davis—where I work as an assistant lab manager and research assistant in the Personality & Self-Knowledge Lab headed by Dr. Simine Vazire. As an RA and independently, I am researching topics related to personality and metascience. I hope to pursue doctoral education in industrial-organizational psychology beginning Fall 2021, preparing myself to work as a scientist-practitioner in the field. My research interests within I-O include the impact of individual difference traits on workplace outcomes, work-life balance, and measurement validation. 
+I am a senior majoring in psychology at UC Davis—where I work as an assistant lab manager and research assistant in the Personality & Self-Knowledge Lab headed by Dr. Simine Vazire. Independently and as an RA, I research topics related to personality and metascience. I hope to pursue doctoral education in industrial-organizational psychology beginning Fall 2021, preparing myself to work as a scientist-practitioner in the field. My research interests within I-O include the impact of individual difference traits on workplace outcomes, work-life balance, and measurement validation. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Vita.pdf" "newtab" >}}CV{{< /staticref >}}.
