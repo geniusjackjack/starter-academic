@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jack Friedrich
+title: Jack C. Friedrich
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,7 +19,7 @@ bio: My research interests—within I/O Psychology—include trait individual di
 # Interests to show in About widget
 interests:
 - Individual differences
-- Work-life balance
+- Occupational health
 - Construct validity 
 - Meta-analysis
 - Open science
@@ -54,14 +54,12 @@ social:
 # and uncomment the lines below.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jcfriedrich@ucdavis.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a senior majoring in psychology at UC Davis—where I work as an assistant lab manager and research assistant in the Personality & Self-Knowledge Lab headed by Dr. Simine Vazire. As an RA and independently, I am researching topics related to personality and metascience. I hope to pursue doctoral education in industrial-organizational psychology beginning Fall 2021, preparing myself to work as a scientist-practitioner in the field. My research interests within I-O include the impact of individual difference traits on workplace outcomes, work-life balance, and measurement validation. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Vita.pdf" "newtab" >}}CV{{< /staticref >}}.
