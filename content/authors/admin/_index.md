@@ -44,7 +44,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/geniusjackjack
+  link: https://twitter.com/jackf_IO
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jack-friedrich/
