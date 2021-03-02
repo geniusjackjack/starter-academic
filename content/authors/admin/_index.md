@@ -62,4 +62,4 @@ highlight_name: false
 
 I am a senior majoring in psychology at UC Davis, where I work as an assistant lab manager and research assistant in the Meta-Science Lab headed by Dr. Simine Vazire. Independently and as an RA, I research topics related to personality and metascience. To prepare for a career as a scientist-practitioner I am currently an admitted applicant to doctoral programs in industrial-organizational psychology for Fall 2021. My research interests within I-O include personality, work-life balance, measurement validation, and promoting rigorous, reproducible science. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "shit/starter-academic/exampleSite/static/media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/JCF_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
