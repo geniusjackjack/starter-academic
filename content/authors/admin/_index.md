@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucdavis.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests—within I/O Psychology—include trait individual differences, work-life balanace, quantitative methods, and open science practices.
+bio: My research interests—within I/O Psychology include personality, work-life balanace, quantitative methods, and open science practices.
 
 # Interests to show in About widget
 interests:
@@ -60,6 +60,6 @@ email: "jcfriedrich@ucdavis.edu"
 highlight_name: false
 ---
 
-I am a senior majoring in psychology at UC Davis, where I work as an assistant lab manager and research assistant in the Metascience Lab headed by Dr. Simine Vazire. Independently and as an RA, I research topics related to personality and metascience. To prepare for a career as a scientist-practitioner I am currently an admitted applicant to doctoral programs in industrial-organizational psychology for Fall 2021. My research interests within I-O include personality, work-life balance, measurement validation, and promoting rigorous, reproducible science. 
+I am a senior majoring in psychology at UC Davis, where I work as an assistant lab manager and research assistant in the Meta-Science Lab headed by Dr. Simine Vazire. Independently and as an RA, I research topics related to personality and metascience. To prepare for a career as a scientist-practitioner I am currently an admitted applicant to doctoral programs in industrial-organizational psychology for Fall 2021. My research interests within I-O include personality, work-life balance, measurement validation, and promoting rigorous, reproducible science. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Jack Friedrich CV.pdf" "newtab" >}}CV{{< /staticref >}}.
